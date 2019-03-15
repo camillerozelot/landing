@@ -1,0 +1,75 @@
+body{
+  background: rgb(245,245,245);
+  color:#8C7A6B; 
+  font-size: 15px;
+  font-family: Raleway;
+}
+h1{
+  font-family: Raleway;
+  color: white;
+  font-weight: lighter;
+  font-size: 30px;
+}
+h2 {
+  font-family: Raleway;
+  color: #90323D;
+  font-weight: bolder;
+  font-size: 20px;
+}
+a {
+  color:#8C7A6B;
+}
+a:hover {
+  text-decoration: none;
+  color: #8C7A6B;
+}
+
+.banner {text-align: center;
+    color: white ;
+    padding: 150px 0px;
+    background-size: cover;
+    background-position: center;
+    background-image: url("https://picsum.photos/4835/3223?image=1076");
+    padding: 150px 0;
+  }
+
+.banner p {
+  margin-bottom: 50px
+}
+
+.cardwhite {
+    text-align: center;
+    background-color: white;
+    padding: 2px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+
+.footer {
+  padding: 30px;
+  background-color: black;
+  color: white;
+}
+
+.footer a {
+  color:  white;
+  font-size: 32px;
+}
+
+.footer a:hover {
+  color: white;
+}
+
+.boutonblue {
+  color: white;
+  background-color: #6772e5;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px color: white;
+  padding: 15px 20px;
+}
+
+.btn-blue:hover {
+  background-color: white;
+  color: white;
+}
+
